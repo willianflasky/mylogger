@@ -1,0 +1,10 @@
+[2022-05-14 19:43:30.905] [main.go:14] [main.f1] [INFO] this info
+[2022-05-14 19:43:30.906] [main.go:15] [main.f1] [FATAL] this fatal
+[2022-05-14 19:50:16.475] [main.go:16] [main.f1] [INFO] this info
+[2022-05-14 19:50:16.476] [main.go:17] [main.f1] [FATAL] this fatal
+[2022-05-14 19:53:23.349] [main.go:17] [main.f1] [INFO] this info
+[2022-05-14 19:53:23.349] [main.go:18] [main.f1] [FATAL] this fatal
+[2022-05-14 19:54:28.358] [main.go:17] [main.f1] [INFO] this info
+[2022-05-14 19:54:28.358] [main.go:18] [main.f1] [FATAL] this fatal
+[2022-05-15 11:40:56.727] [main.go:17] [main.f1] [INFO] this info
+[2022-05-15 11:40:56.729] [main.go:18] [main.f1] [FATAL] this fatal
