@@ -16,7 +16,7 @@ type FileLogger struct {
 	maxsize   int64
 }
 
-func NewFileLogger(levelstr, fileName, filePath string) *FileLogger {
+func NewFileLogger(levelstr, filePath, fileName string) *FileLogger {
 	// mylogger.NewFileLogger("info")  --> InfoLevel
 	// 即: info --> InfoLevel
 	loglevel := parseLogLevel(levelstr)
